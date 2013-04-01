@@ -1,0 +1,1 @@
+A simple Trie implementation in Java. Did this just to play around with tries. It's pretty straightfoward. I have no idea if the implementation is the best or not. But it works. Not production-ready or anything. This is just me playing around.
